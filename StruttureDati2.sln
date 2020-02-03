@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StruttureDati2", "StruttureDati2\StruttureDati2.csproj", "{14656975-2120-4DAF-995D-68587A762E04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14656975-2120-4DAF-995D-68587A762E04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14656975-2120-4DAF-995D-68587A762E04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14656975-2120-4DAF-995D-68587A762E04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14656975-2120-4DAF-995D-68587A762E04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41277709-638F-4D2B-9B19-7D98C23567A4}
+	EndGlobalSection
+EndGlobal
